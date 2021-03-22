@@ -1,5 +1,6 @@
 /// https://store.ncd.io/product/ad5696-4-channel-4-20ma-16-bit-current-loop-transmitter-with-iot-interface/
 ///https://store.ncd.io/?fwp_product_type=adapters&fwp_platform=arduino
+// tested on 20th march with Arduino nano 
 #include <Wire.h>
 void setup()
 {
